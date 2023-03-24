@@ -1,0 +1,90 @@
+{
+  "seller": [
+    {
+      "name": "sanket",
+      "password": "12345",
+      "email": "sanket@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mayur",
+      "password": "12345",
+      "email": "mayur@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "shital",
+      "password": "12345",
+      "email": "shital@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sanket",
+      "password": "12345",
+      "email": "sanket@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "shivani",
+      "password": "12345",
+      "email": "shivani@gmail.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "i phone 14",
+      "price": "99999",
+      "color": "black",
+      "category": "mobile",
+      "description": "good",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-3.jpg",
+      "id": 3
+    },
+    {
+      "name": "hp laptop",
+      "price": "30000",
+      "color": "black",
+      "category": "laptop",
+      "description": "good",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/6/8/689H4PA-1_T1656563631.png",
+      "id": 7
+    },
+    {
+      "name": "bullet",
+      "price": "275000",
+      "color": "black",
+      "category": "bike",
+      "description": "kdk",
+      "image": "https://th.bing.com/th?id=OIP.2KcbohilRdI3lC4JSj63rAHaJQ&w=223&h=279&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "id": 8
+    },
+    {
+      "name": "cycle",
+      "price": "5000",
+      "color": "black",
+      "category": "cycle",
+      "description": "good",
+      "image": "https://th.bing.com/th/id/OIP.UYtuHOa6nifiZn2kuas_pQHaFP?w=256&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 9
+    },
+    {
+      "name": "swift",
+      "price": "988777",
+      "color": "red",
+      "category": "swift",
+      "description": "good",
+      "image": "https://th.bing.com/th/id/OIP.Bkhr6dRH-JJvS25lOqgB6gHaEx?w=256&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 10
+    },
+    {
+      "name": "fortuner",
+      "price": "3500000",
+      "color": "black",
+      "category": "fortuner",
+      "description": "good",
+      "image": "https://th.bing.com/th/id/OIP.4FyGBGUXodIJyMIutqN-LwHaEL?w=323&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 11
+    }
+  ]
+}
